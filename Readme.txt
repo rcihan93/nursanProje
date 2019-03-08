@@ -1,4 +1,6 @@
-Bu proje fabrikada �retim verimlili�ini ama�lamaktad�r.
+Bu proje fabrikada üretim verimliliğini amaçlamaktadır.
 
-��e gelmeyen �al��anlar�n yerine, onun yerine en uygun �al��an 
-belirli kriterlere g�re belirlenip, otomatik atama i�lemi yap�lm��t�r.
+İşe gelmeyen çalışanların yerine, onun yerine en uygun çalışan 
+belirli kriterlere göre belirlenip, otomatik atama işlemi yapılmıştır.
+
+Proje yapımında C# ve Microsoft SQL Server  kullanılmıştır.
